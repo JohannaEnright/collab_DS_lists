@@ -5,3 +5,5 @@ Logistic Regression
 -	Use cases
 -	Example: sklearn.linear_model.LogisticRegression
 - Heyoo practice edits
+- how to save file. 
+- new updates
